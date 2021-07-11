@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgjwpYp8Gt7b5hDRcAiKYKVwSbB06oNXOEw&usqp=CAU");
+    
+}
+div {
+    text-decoration-line: underline;
+}
+h3{
+    text-decoration-line: underline;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    outline-style: groove;
+    outline-color: rgb(149, 119, 153);
+}
+ul{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 4mm;
+}
